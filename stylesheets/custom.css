@@ -1,0 +1,16 @@
+body {
+  background-image: url('../assets/background.png');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: hsl(0, 100%, 28%);
+}
+
+img {
+  padding-top: 65px;
+}
+
+iframe {
+  max-height: 0;
+  width: 0;
+}
