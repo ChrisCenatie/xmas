@@ -11,5 +11,4 @@ function sizeImage() {
   var width = $(window).innerWidth() * 254 / 1440;
   img.height = height;
   img.width = width;
-  console.log($('img').css('padding-top'))
 }
